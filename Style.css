@@ -107,7 +107,7 @@ body {
   display: flex;
   align-items: center;
   background: linear-gradient(to right, rgb(0 0 0 / 0.7), rgb(0 0 0 / 0)),
-    url(../Pict/KFP-hero.jpg);
+    url(Pict/KFP-hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
